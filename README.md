@@ -8,7 +8,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Instructions
 
-Put into `.config/alacritty/alacritty.yml` on Linux/macOS.
+Put the `alacritty.yml` into `.config/alacritty/` on Linux/macOS.
 
 ### Screenshots
 
