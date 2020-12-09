@@ -17,3 +17,7 @@ Put the `alacritty.yml` into `.config/alacritty/` on Linux/macOS.
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
 ![Alacritty with Rosé Pine](https://i.imgur.com/cfHIjEn.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
