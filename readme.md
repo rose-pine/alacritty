@@ -10,7 +10,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-Import `rosé-pine.yml`, `rosé-pine-dawn.yml`, or `rosé-pine-moon.yml` into `~/.congif/alacritty/alacritty.yml` on Linux/macOS or `%appdata%\alacritty\alacritty.yml` on Windows.
+Import `rosé-pine.yml`, `rosé-pine-dawn.yml`, or `rosé-pine-moon.yml` into `~/.config/alacritty/alacritty.yml` on Linux/macOS or `%appdata%\alacritty\alacritty.yml` on Windows.
 
 ```yaml
 import:
