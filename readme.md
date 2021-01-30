@@ -14,7 +14,7 @@ Import `rosé-pine.yml`, `rosé-pine-dawn.yml`, or `rosé-pine-moon.yml` into `~
 
 ```yaml
 import:
-  - /path/to/dracula.yml
+  - /path/to/rosé-pine.yml
 ```
 
 
