@@ -10,14 +10,25 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Usage
 
-Put the `alacritty.yml` into `.config/alacritty/` on Linux/macOS.
+Import `rosé-pine.yml`, `rosé-pine-dawn.yml`, or `rosé-pine-moon.yml` into `~/.config/alacritty/alacritty.yml` on Linux/macOS or `%appdata%\alacritty\alacritty.yml` on Windows.
+
+```yaml
+import:
+  - /path/to/dracula.yml
+```
+
+
 
 ## Screenshots
 
-Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
+![Alacritty with Rosé Pine](https://i.imgur.com/ySxFMnZ.jpg)
 
-![Alacritty with Rosé Pine](https://i.imgur.com/cfHIjEn.png)
+![Alacritty with Rosé Pine Moon](https://i.imgur.com/7wF4XCj.jpg)
+
+![Alacritty with Rosé Pine Dawn](https://i.imgur.com/FcL2kHa.jpg)
 
 ## Thanks to 
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+- [Dolichomps](https://github.com/Dolichomps)
+
