@@ -20,7 +20,7 @@ import:
   - /path/to/rose-pine.yml
 ```
 
-## Screenshots
+## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
