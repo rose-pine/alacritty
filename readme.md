@@ -24,11 +24,11 @@ import:
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![Alacritty with Rosé Pine](https://i.imgur.com/cfHIjEn.png)
+![Alacritty with Rosé Pine](https://cdn.discordapp.com/attachments/767173835698208799/806313418319462440/unknown.png)
 
-![Alacritty with Rosé Pine Moon](https://i.imgur.com/7wF4XCj.jpg)
+![Alacritty with Rosé Pine Moon](https://cdn.discordapp.com/attachments/767173835698208799/806313506630533161/unknown.png)
 
-![Alacritty with Rosé Pine Dawn](https://i.imgur.com/FcL2kHa.jpg)
+![Alacritty with Rosé Pine Dawn](https://cdn.discordapp.com/attachments/767173835698208799/806313592571691058/unknown.png)
 
 ## Thanks to
 
