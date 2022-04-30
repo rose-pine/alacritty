@@ -13,9 +13,10 @@
 
 ## Usage
 
-Import the desired theme into Alacritty's config\
-  a. `~/.config/alacritty/alacritty.yml` on Linux/macOS\
-  b. `%appdata%\alacritty\alacritty.yml` on Windows
+Import the desired theme into Alacritty's config:
+
+- `~/.config/alacritty/alacritty.yml` on Linux/macOS
+- `%appdata%\alacritty\alacritty.yml` on Windows
 
 ```yaml
 import:
