@@ -1,0 +1,41 @@
+colors:
+  primary:
+    background: "0x$base"
+    foreground: "0x$text"
+  cursor:
+    text: "0x$text"
+    cursor: "0x$highlightHigh"
+  vi_mode_cursor:
+    text: "0x$text"
+    cursor: "0x$highlightHigh"
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: "0x$text"
+    background: "0x$highlightMed"
+  normal:
+    black: "0x$overlay"
+    red: "0x$love"
+    green: "0x$pine"
+    yellow: "0x$gold"
+    blue: "0x$foam"
+    magenta: "0x$iris"
+    cyan: "0x$rose"
+    white: "0x$text"
+  bright:
+    black: "0x$muted"
+    red: "0x$love"
+    green: "0x$pine"
+    yellow: "0x$gold"
+    blue: "0x$foam"
+    magenta: "0x$iris"
+    cyan: "0x$rose"
+    white: "0x$text"
+  hints:
+    start:
+      foreground: "#$subtle"
+      background: "#$surface"
+    end:
+      foreground: "#$muted"
+      background: "#$surface"
