@@ -1,0 +1,75 @@
+# Colors section of "Alacritty - TOML configuration file format"
+# https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd#colors
+
+[colors.primary]
+foreground = "$text"
+background = "$base"
+dim_foreground = "$subtle"
+bright_foreground = "$text"
+
+[colors.cursor]
+text = "$text"
+cursor = "$highlightHigh"
+
+[colors.vi_mode_cursor]
+text = "$text"
+cursor = "$highlightHigh"
+
+[colors.search.matches]
+foreground = "$subtle"
+background = "$overlay"
+
+[colors.search.focused_match]
+foreground = "$base"
+background = "$rose"
+
+[colors.hints.start]
+foreground = "$subtle"
+background = "$surface"
+
+[colors.hints.end]
+foreground = "$muted"
+background = "$surface"
+
+[colors.line_indicator]
+foreground = "None"
+background = "None"
+
+[colors.footer_bar]
+foreground = "$text"
+background = "$surface"
+
+[colors.selection]
+text = "$text"
+background = "$highlightMed"
+
+[colors.normal]
+black = "$overlay"
+red = "$love"
+green = "$pine"
+yellow = "$gold"
+blue = "$foam"
+magenta = "$iris"
+cyan = "$rose"
+white = "$text"
+
+[colors.bright]
+black = "$muted"
+red = "$love"
+green = "$pine"
+yellow = "$gold"
+blue = "$foam"
+magenta = "$iris"
+cyan = "$rose"
+white = "$text"
+
+[colors.dim]
+black = "$muted"
+red = "$love"
+green = "$pine"
+yellow = "$gold"
+blue = "$foam"
+magenta = "$iris"
+cyan = "$rose"
+white = "$text"
+
