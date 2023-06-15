@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Locate (or create) Alacritty's config file (refer to [the *Configuration* section of Alacritty's readme](https://github.com/alacritty/alacritty/tree/master#configuration)).
+1. Locate (or create) Alacritty's config file (refer to [the *Configuration* section of Alacritty's readme](https://github.com/alacritty/alacritty/tree/master#configuration))
 2. Clone this repository
 3. Copy the contents of the `dist/` directory to a location of your choosing
 4. Import **one** of the TOML files you just copied into Alacritty's config
