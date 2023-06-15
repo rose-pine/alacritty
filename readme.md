@@ -59,6 +59,7 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
 - [Dolichomps](https://github.com/Dolichomps)
+- [Cristian Tentella](https://github.com/cristian-tentella)
 
 ## Contributing
 
