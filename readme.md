@@ -13,7 +13,7 @@
 
 ## TOML or YAML?
 
-[TOML configuration has been recently introduced to Alacritty](https://github.com/alacritty/alacritty/commit/bd4906722a1a026b01f06c94c33b13ff63a7e044) and it's not yet supported by any stable release of the software. If you need a YAML equivalent of the theme refer to [this link](https://github.com/rose-pine/alacritty/tree/7c3625f3d0f34359ba114e09b1ba3f3c1bed399a) (it will lead you to the latest version of this repository preceding the [TOML port](https://github.com/rose-pine/alacritty/commit/dfdb46476dc963d4e8784e4f32766ba603550bc6)).
+[Alacritty uses TOML configuration file format](https://alacritty.org/releases/0.15.1/config-alacritty.html). If you need the legacy YAML equivalent of the theme refer to [this link](https://github.com/rose-pine/alacritty/tree/7c3625f3d0f34359ba114e09b1ba3f3c1bed399a) (it will lead you to the latest version of this repository preceding the [TOML port](https://github.com/rose-pine/alacritty/commit/dfdb46476dc963d4e8784e4f32766ba603550bc6)).
 
 ## Usage
 
