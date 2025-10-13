@@ -11,37 +11,29 @@
     </a>
 </p>
 
-## TOML or YAML?
-
-[Alacritty uses TOML configuration file format](https://alacritty.org/releases/0.15.1/config-alacritty.html). If you need the legacy YAML equivalent of the theme refer to [this link](https://github.com/rose-pine/alacritty/tree/7c3625f3d0f34359ba114e09b1ba3f3c1bed399a) (it will lead you to the latest version of this repository preceding the [TOML port](https://github.com/rose-pine/alacritty/commit/dfdb46476dc963d4e8784e4f32766ba603550bc6)).
-
 ## Usage
 
-1. Locate (or create) Alacritty's config file (refer to [the *Configuration* section of Alacritty's readme](https://github.com/alacritty/alacritty/tree/master#configuration))
-2. Clone this repository
-3. Copy the contents of the `dist/` directory to a location of your choosing
-4. Import **one** of the TOML files you just copied into Alacritty's config
-
-### Example
-
-The following example will assume that your Alacritty's config path is `~/.config/alacritty/alacritty.toml`.
+Clone this repository:
 
 ```sh
-# Clone this repository
 git clone https://github.com/rose-pine/alacritty.git
-
-# Copy the contents of the `dist` directory to Alacritty's config directory
-cp ./alacritty/dist/* ~/.config/alacritty
-
-# Delete the cloned repository (optional)
-rm -r ./alacritty
 ```
 
-The Alacritty's config directory should now contain `rose-pine.toml`, `rose-pine-moon.toml` and `rose-pine-dawn.toml`. Choose one of these files and import it into your Alacritty's config (*the following code block will assume that you choose `rose-pine.toml`*).
+Copy themes to your [Alacritty config directory](https://github.com/alacritty/alacritty/tree/master#configuration):
 
-```toml
+```sh
+# Update your config path if necessary
+cp ./alacritty/dist/* ~/.config/alacritty
+```
+
+Import any theme in your Alacritty config:
+
+```sh
+# ~/.config/alacritty/alacritty.toml
 import = ["~/.config/alacritty/rose-pine.toml"]
 ```
+
+_For older versions of Alacritty, we have a legacy [YAML theme](https://github.com/rose-pine/alacritty/tree/7c3625f3d0f34359ba114e09b1ba3f3c1bed399a)._
 
 ## Gallery
 
@@ -49,15 +41,15 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 
 **Rosé Pine**
 
-![Alacritty with Rosé Pine](https://cdn.discordapp.com/attachments/767173835698208799/806313418319462440/unknown.png)
+![Alacritty with Rosé Pine](./assets/rose-pine.png)
 
 **Rosé Pine Moon**
 
-![Alacritty with Rosé Pine Moon](https://cdn.discordapp.com/attachments/767173835698208799/806313506630533161/unknown.png)
+![Alacritty with Rosé Pine Moon](./assets/rose-pine-moon.png)
 
 **Rosé Pine Dawn**
 
-![Alacritty with Rosé Pine Dawn](https://cdn.discordapp.com/attachments/767173835698208799/806313592571691058/unknown.png)
+![Alacritty with Rosé Pine Dawn](./assets/rose-pine-dawn.png)
 
 ## Thanks to
 
