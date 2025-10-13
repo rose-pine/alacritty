@@ -30,7 +30,8 @@ Import any theme in your Alacritty config:
 
 ```sh
 # ~/.config/alacritty/alacritty.toml
-import = ["~/.config/alacritty/rose-pine.toml"]
+[general]
+	import = ["rose-pine.toml"]
 ```
 
 _For older versions of Alacritty, we have a legacy [YAML theme](https://github.com/rose-pine/alacritty/tree/7c3625f3d0f34359ba114e09b1ba3f3c1bed399a)._
